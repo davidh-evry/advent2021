@@ -1,6 +1,6 @@
 import java.util.Scanner
 
-val input = """
+private val input = """
         be cfbegad cbdgef fgaecd cgeb fdcge agebfd fecdb fabcd edb |
         fdgacbe cefdb cefbgd gcbe
         edbfga begcd cbg gc gcadebf fbgde acbgfd abcde gfcbed gfec |
